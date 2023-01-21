@@ -1,4 +1,4 @@
-library percentage_graph;
+library percentage_bar;
 
 import 'package:flutter/material.dart';
 import 'package:percentage_bar/percent_graph_model.dart';
